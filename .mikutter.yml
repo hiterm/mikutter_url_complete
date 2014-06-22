@@ -1,0 +1,9 @@
+---
+slug: :mikutter_url_complete
+depends:
+  mikutter: 3.0.1
+  plugin: []
+version: '1.0'
+author: ilrshm
+name: url_complete
+description: urlを入力すると、そのページのタイトルを補完
